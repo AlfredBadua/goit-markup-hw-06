@@ -827,7 +827,7 @@ background: var(--background-body);
   left: 50%;
   min-width: 408px;
   min-height: 584px;
-  background-color: var(--filter-button, #fcfcfc);
+  background-color: #FFF;
   box-shadow: 0px 2px 1px 0px rgba(0, 0, 0, 0.2),
   0px 1px 3px 0px rgba(0, 0, 0, 0.12), 0px 1px 1px 0px rgba(0, 0, 0, 0.14);
   border-radius: 4px;
